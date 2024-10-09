@@ -1,0 +1,10 @@
+ Git is a software used throughout software development process mainy used for version control 
+For reference you may refer to docs.chaicode.com 
+Git is a software whereas github is a online service for hosting that software 
+What is Version Control Systems? Version Control Systems or VCS are basically softwares that creates checkpoints amd heps us in tracking changes in the software
+
+///Terminology///
+
+Repository - Cdllection of Folders or Directories 
+
+
